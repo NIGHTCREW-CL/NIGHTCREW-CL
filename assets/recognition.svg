@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Sexto lugar nacional — Ejercicio Nacional de Ciberseguridad organizado por ANCI">
+<rect x="1" y="1" width="1198" height="198" rx="6" fill="#101c2c" stroke="#344052"/>
+<path d="M1 36V164" stroke="#c6a66c" stroke-width="3"/>
+<circle cx="100" cy="100" r="61" fill="none" stroke="#c6a66c" stroke-opacity=".4"/>
+<text x="100" y="115" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#d3b57a">6°</text>
+<text x="202" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#b9a477">DISTINCIÓN NACIONAL</text>
+<text x="200" y="101" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#f0f3f7">Ejercicio Nacional de Ciberseguridad</text>
+<text x="202" y="139" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#acbbcf">Sexto lugar a nivel nacional · Organizado por la ANCI</text>
+<text x="202" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7e92ad">Agencia Nacional de Ciberseguridad de Chile</text>
+</svg>

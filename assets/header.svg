@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="NIGHT CREW — Seguridad digital al servicio de las personas">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14263b"/><stop offset="1" stop-color="#080f1b"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#344d65" stop-opacity=".35"/><stop offset="1" stop-color="#14263b" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#9bb0c8" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="440" rx="6" fill="url(#bg)"/>
+<rect width="1200" height="440" fill="url(#grid)"/>
+<ellipse cx="970" cy="190" rx="340" ry="300" fill="url(#glow)"/>
+<path d="M64 64H1136M64 376H1136" stroke="#b99b65" stroke-opacity=".35"/>
+<path d="M64 64H118M1082 376H1136" stroke="#d3b57a" stroke-width="3"/>
+<g fill="none" stroke="#b99b65" transform="translate(959 211)">
+ <circle r="132" stroke-opacity=".12"/><circle r="117" stroke-opacity=".25"/>
+ <path d="M0-148V-128M0 128V148M-148 0H-128M128 0H148" stroke-opacity=".4"/>
+ <path d="M0-89L69-59V12C69 57 28 85 0 101C-28 85-69 57-69 12V-59Z" stroke-width="2"/>
+ <path d="M0-72L54-48V12C54 45 23 69 0 83C-23 69-54 45-54 12V-48Z" stroke-opacity=".3"/>
+ <path d="M0-49L9-10L43 0L9 10L0 49L-9 10L-43 0L-9-10Z" fill="#d3b57a" stroke="none"/>
+ <path d="M-28-28L-11-11M28-28L11-11M28 28L11 11M-28 28L-11 11" stroke-opacity=".6"/>
+</g>
+<text x="66" y="112" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#c9b27f">PROTECCIÓN · CONOCIMIENTO · CONFIANZA</text>
+<text x="60" y="212" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="3" fill="#f0f3f7">NIGHT CREW</text>
+<rect x="65" y="244" width="54" height="2" fill="#d3b57a"/>
+<text x="64" y="288" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#dbe3ee">Seguridad digital al servicio de las personas.</text>
+<text x="65" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#8fa2bb">PREVENIR. FORTALECER. COMPARTIR.</text>
+</svg>
