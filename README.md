@@ -1,40 +1,40 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="NIGHT CREW — Seguridad digital al servicio de las personas." />
+<img src="assets/header.svg" width="100%" alt="NIGHT CREW — Ciberdefensa. Inteligencia, análisis y preparación." />
 
 <br />
 <br />
 
-**Protección con propósito. Conocimiento que se comparte.**
+**INTELIGENCIA · ANÁLISIS · PREPARACIÓN**
 
-Institución independiente, sin fines de lucro, orientada a fortalecer la seguridad digital.<br />
-Disciplina, integridad y vocación de servicio a través del conocimiento abierto.
+Desarrollo de capacidades en ciberdefensa mediante análisis de amenazas,<br />
+preparación técnica y evaluación de seguridad.
 
 <br />
 
-[Propósito](#propósito) &nbsp; / &nbsp; [Compromiso](#compromiso) &nbsp; / &nbsp; [Áreas](#áreas-de-conocimiento) &nbsp; / &nbsp; [Reconocimiento](#reconocimiento)
+[Misión](#misión) &nbsp; / &nbsp; [Principios](#principios) &nbsp; / &nbsp; [Áreas](#áreas-de-conocimiento) &nbsp; / &nbsp; [Reconocimiento](#reconocimiento)
 
 </div>
 
 <br />
 
-## Propósito
+## Misión
 
-Acercar la ciberseguridad a las personas y fortalecer la confianza en el entorno digital. Orientamos nuestra labor a promover decisiones informadas, buenas prácticas y una cultura de prevención. Nuestra finalidad es educativa y de colaboración, sin actividad comercial ni oferta de servicios o productos.
+Desarrollar y consolidar capacidades en ciberdefensa a través del estudio de amenazas, la preparación en entornos controlados y la evaluación autorizada de seguridad. Documentar métodos y resultados con precisión, evidencia verificable y criterios de divulgación responsable.
 
 <br />
 
-## Compromiso
+## Principios
 
-| Prevención | Conocimiento abierto | Responsabilidad |
+| Disciplina | Rigor | Integridad |
 | :--- | :--- | :--- |
-| Impulsar prácticas que ayuden a reducir riesgos y proteger la información. | Favorecer el aprendizaje y compartir recursos útiles para fortalecer capacidades. | Actuar con rigor, respeto por la privacidad y apego a la divulgación responsable. |
+| Preparación continua, procedimientos definidos y revisión del trabajo. | Análisis trazable, validación técnica y conclusiones sustentadas en evidencia. | Respeto del alcance autorizado, protección de la información y divulgación responsable. |
 
 <br />
 
 ## Áreas de conocimiento
 
-Cuatro áreas documentales para desarrollar capacidades y compartir aprendizaje con rigor.
+La documentación técnica se organiza en cuatro áreas:
 
 | Área | Enfoque | Archivo |
 | :--- | :--- | :--- |
@@ -59,5 +59,5 @@ Cuatro áreas documentales para desarrollar capacidades y compartir aprendizaje 
 ---
 
 <div align="center">
-  <sub><strong>NIGHT CREW</strong> &nbsp; · &nbsp; Prevenir. Fortalecer. Compartir.</sub>
+  <sub><strong>NIGHT CREW</strong> &nbsp; · &nbsp; Institución independiente, sin fines de lucro.</sub>
 </div>
