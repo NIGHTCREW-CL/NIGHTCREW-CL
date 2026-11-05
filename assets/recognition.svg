@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Sexto lugar nacional — Ejercicio Nacional de Ciberseguridad organizado por ANCI">
-<rect x="1" y="1" width="1198" height="198" rx="6" fill="#101c2c" stroke="#344052"/>
-<path d="M1 36V164" stroke="#c6a66c" stroke-width="3"/>
-<circle cx="100" cy="100" r="61" fill="none" stroke="#c6a66c" stroke-opacity=".4"/>
-<text x="100" y="115" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#d3b57a">6°</text>
-<text x="202" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#b9a477">DISTINCIÓN NACIONAL</text>
-<text x="200" y="101" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#f0f3f7">Ejercicio Nacional de Ciberseguridad</text>
-<text x="202" y="139" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#acbbcf">Sexto lugar a nivel nacional · Organizado por la ANCI</text>
-<text x="202" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#7e92ad">Agencia Nacional de Ciberseguridad de Chile</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Ejercicio Nacional de Ciberseguridad — ANCI · Chile. 6.ª posición nacional · 29 de octubre de 2026">
+<rect x="1" y="1" width="1198" height="218" fill="#111511" stroke="#434b3d"/>
+<path d="M1 36V184" stroke="#a8b296" stroke-width="3"/>
+<path d="M42 57L105 34L168 57V119C168 147 135 170 105 187C75 170 42 147 42 119Z" fill="none" stroke="#737b61" stroke-width="2"/>
+<text x="105" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#e4e7d8">6°</text>
+<path d="M204 40V180" stroke="#434b3d"/>
+<text x="242" y="52" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#a8b296">RESULTADO DE COMPETENCIA</text>
+<text x="240" y="101" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#edf0e5">Ejercicio Nacional de Ciberseguridad</text>
+<text x="242" y="136" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1" fill="#c1c9b3">ANCI · Chile</text>
+<text x="242" y="180" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#a8b296">6.ª posición nacional · 29 de octubre de 2026</text>
 </svg>

@@ -48,19 +48,19 @@ La documentación técnica se organiza en cuatro áreas:
 ## Reconocimientos
 
 <a href="https://llaitun.my-ctf.com/scoreboard">
-  <img src="assets/llaitun-2026.svg" width="100%" alt="9.ª posición — Ejercicio Técnico CTF Llaitún 2026, Smart City Edition. Presentado por CIBERLAB. 5 de noviembre de 2026." />
+  <img src="assets/llaitun-2026.svg" width="100%" alt="9.ª posición — Llaitún 2026, Smart City Edition. CIBERLAB. 5 de noviembre de 2026." />
 </a>
 
-<sub>9.ª posición en el Ejercicio Técnico CTF Llaitún 2026 — Smart City Edition, presentado por CIBERLAB. [Consultar clasificación](https://llaitun.my-ctf.com/scoreboard).</sub>
+<sub>[Clasificación oficial · Llaitún 2026](https://llaitun.my-ctf.com/scoreboard)</sub>
 
 <br />
 <br />
 
 <a href="https://anci.hackrocks.com/ctf/anci-ejercicio/clans">
-  <img src="assets/recognition.svg" width="100%" alt="Sexto lugar a nivel nacional en el Ejercicio Nacional de Ciberseguridad, organizado por la ANCI." />
+  <img src="assets/recognition.svg" width="100%" alt="6.ª posición nacional — Ejercicio Nacional de Ciberseguridad. ANCI. 29 de octubre de 2026." />
 </a>
 
-<sub>Participación en el ejercicio organizado por la Agencia Nacional de Ciberseguridad de Chile. Este reconocimiento corresponde al resultado de la competencia.</sub>
+<sub>[Clasificación oficial · ANCI 2026](https://anci.hackrocks.com/ctf/anci-ejercicio/clans)</sub>
 
 <br />
 <br />
