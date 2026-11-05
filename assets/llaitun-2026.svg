@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="9.ª posición — Ejercicio Técnico CTF Llaitún 2026, Smart City Edition. CIBERLAB. 5 de noviembre de 2026.">
+<rect x="1" y="1" width="1198" height="218" fill="#111511" stroke="#434b3d"/>
+<path d="M1 36V184" stroke="#a8b296" stroke-width="3"/>
+<path d="M42 57L105 34L168 57V119C168 147 135 170 105 187C75 170 42 147 42 119Z" fill="none" stroke="#737b61" stroke-width="2"/>
+<text x="105" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#e4e7d8">9°</text>
+<path d="M204 40V180" stroke="#434b3d"/>
+<text x="242" y="52" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#a8b296">EJERCICIO TÉCNICO CTF</text>
+<text x="240" y="101" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#edf0e5">Llaitún 2026</text>
+<text x="242" y="136" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2" fill="#c1c9b3">SMART CITY EDITION</text>
+<text x="242" y="180" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#a8b296">9.ª posición · CIBERLAB · 5 de noviembre de 2026</text>
+</svg>

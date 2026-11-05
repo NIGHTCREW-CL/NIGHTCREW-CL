@@ -12,7 +12,7 @@ preparación técnica y evaluación de seguridad.
 
 <br />
 
-[Misión](#misión) &nbsp; / &nbsp; [Principios](#principios) &nbsp; / &nbsp; [Áreas](#áreas-de-conocimiento) &nbsp; / &nbsp; [Reconocimiento](#reconocimiento)
+[Misión](#misión) &nbsp; / &nbsp; [Principios](#principios) &nbsp; / &nbsp; [Áreas](#áreas-de-conocimiento) &nbsp; / &nbsp; [Reconocimientos](#reconocimientos)
 
 </div>
 
@@ -45,7 +45,16 @@ La documentación técnica se organiza en cuatro áreas:
 
 <br />
 
-## Reconocimiento
+## Reconocimientos
+
+<a href="https://llaitun.my-ctf.com/scoreboard">
+  <img src="assets/llaitun-2026.svg" width="100%" alt="9.ª posición — Ejercicio Técnico CTF Llaitún 2026, Smart City Edition. Presentado por CIBERLAB. 5 de noviembre de 2026." />
+</a>
+
+<sub>9.ª posición en el Ejercicio Técnico CTF Llaitún 2026 — Smart City Edition, presentado por CIBERLAB. [Consultar clasificación](https://llaitun.my-ctf.com/scoreboard).</sub>
+
+<br />
+<br />
 
 <a href="https://anci.hackrocks.com/ctf/anci-ejercicio/clans">
   <img src="assets/recognition.svg" width="100%" alt="Sexto lugar a nivel nacional en el Ejercicio Nacional de Ciberseguridad, organizado por la ANCI." />
