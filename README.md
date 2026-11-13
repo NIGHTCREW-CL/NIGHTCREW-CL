@@ -68,5 +68,5 @@ La documentación técnica se organiza en cuatro áreas:
 ---
 
 <div align="center">
-  <sub><strong>NIGHT CREW</strong> &nbsp; · &nbsp; Institución independiente, sin fines de lucro.</sub>
+  <sub><strong>NIGHT CREW</strong> &nbsp; · &nbsp; Grupo independiente, sin fines de lucro.</sub>
 </div>
