@@ -1,20 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="NIGHT CREW — Ciberdefensa. Inteligencia, análisis y preparación.">
-<defs><pattern id="lines" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#d2d5c5" stroke-opacity=".018"/></pattern></defs>
-<rect width="1200" height="420" fill="#111511"/><rect width="1200" height="420" fill="url(#lines)"/>
-<path d="M28 58V28H58M1142 28H1172V58M28 362V392H58M1142 392H1172V362" fill="none" stroke="#737b61" stroke-width="2"/>
-<path d="M64 84H1136M64 337H1136M337 112V306" stroke="#434b3d"/>
-<g transform="translate(193 209)" fill="none">
-<path d="M0-102L81-73V11C81 59 37 89 0 111C-37 89-81 59-81 11V-73Z" stroke="#b5bea0" stroke-width="3"/>
-<path d="M0-87L67-63V10C67 48 32 75 0 95C-32 75-67 48-67 10V-63Z" stroke="#58634c"/>
-<path d="M-43 16V-37L-9 16V-37M42-30L31-38H14L4-28V5L14 16H31L42 8" stroke="#e4e7d8" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
-<path d="M-30 44L0 58L30 44M-23 61L0 72L23 61" stroke="#929f79" stroke-width="4"/>
-<path d="M-115-30H-99M99-30H115M0-127V-114" stroke="#737b61"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title">
+<title id="title">NIGHT CREW — Ciberdefensa. Inteligencia, análisis y preparación. Grupo independiente, sin fines de lucro.</title>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#99a47c" stroke-opacity=".07"/></pattern>
+<pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse"><path d="M0 7L7 0" stroke="#c3ad7b" stroke-opacity=".07"/></pattern>
+<linearGradient id="field" x2="1" y2="1"><stop stop-color="#202a1c"/><stop offset="1" stop-color="#101510"/></linearGradient></defs>
+<rect width="1200" height="490" fill="#101410"/>
+<path d="M804 0H1200V490H742L804 0Z" fill="url(#field)"/>
+<path d="M804 0H1200V490H742L804 0Z" fill="url(#grid)"/>
+<rect x="0" y="0" width="8" height="490" fill="#c3ad7b"/>
+<path d="M32 62V30H64M1136 30H1168V62M32 428V460H64M1136 460H1168V428" fill="none" stroke="#3a4333" stroke-width="2"/>
+<path d="M62 83H1138M62 405H1138" stroke="#3a4333"/>
+<text x="62" y="58" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.4" fill="#c3ad7b" >CIBERDEFENSA / CONOCIMIENTO ABIERTO</text>
+<text x="1138" y="58" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#b6bba7" text-anchor="end">CTI · CTH · CTF · EH</text>
+<text x="53" y="201" font-family="Arial, Helvetica, sans-serif" font-size="122" font-weight="900" letter-spacing="5" fill="#ecebe1" >NIGHT</text>
+<text x="53" y="320" font-family="Arial, Helvetica, sans-serif" font-size="122" font-weight="900" letter-spacing="7" fill="#ecebe1" >CREW</text>
+<path d="M63 352H123" stroke="#c3ad7b" stroke-width="4"/>
+<text x="145" y="358" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.0" fill="#b6bba7" >INTELIGENCIA · ANÁLISIS · PREPARACIÓN</text>
+<g fill="none" stroke="#3a4333">
+<path d="M827 123H850M1062 123H1085M827 352H850M1062 352H1085"/>
+<path d="M956 99V116M956 368V385"/>
+<circle cx="956" cy="241" r="145" stroke-opacity=".55" stroke-dasharray="3 11"/>
 </g>
-<text x="384" y="139" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#a8b296">INTELIGENCIA · ANÁLISIS · PREPARACIÓN</text>
-<text x="379" y="223" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="800" letter-spacing="3" fill="#edf0e5">NIGHT CREW</text>
-<rect x="384" y="249" width="42" height="3" fill="#a8b296"/>
-<text x="447" y="259" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="7" fill="#c1c9b3">CIBERDEFENSA</text>
-<text x="384" y="304" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#8e9b7e">DISCIPLINA. RIGOR. INTEGRIDAD.</text>
-<text x="64" y="365" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" fill="#87927a">CTI / CTH / CTF / EH</text>
-<text x="1136" y="365" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" fill="#87927a">NIGHT CREW</text>
+<g transform="translate(956 231) scale(1.12)" fill="none" stroke-linejoin="miter">
+<path d="M0-108L84-77V11C84 63 40 95 0 118C-40 95-84 63-84 11V-77Z" fill="#121910" stroke="#c3ad7b" stroke-width="2.2"/>
+<path d="M0-92L70-66V10C70 52 33 81 0 100C-33 81-70 52-70 10V-66Z" stroke="#3a4333"/>
+<path d="M-43 11V-40L-9 11V-40M44-32L33-40H15L5-30V0L15 11H33L44 2" stroke="#ecebe1" stroke-width="7" stroke-linecap="square"/>
+<path d="M-30 42L0 57L30 42M-23 60L0 72L23 60" stroke="#99a47c" stroke-width="4"/>
+<path d="M-24-72H24" stroke="#c3ad7b" stroke-width="3"/>
+</g>
+<text x="956" y="388" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3.4" fill="#c3ad7b" text-anchor="middle">NIGHT CREW</text>
+<text x="62" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#99a47c" >DISCIPLINA / RIGOR / INTEGRIDAD</text>
+<text x="1138" y="440" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="1.2" fill="#b6bba7" text-anchor="end">GRUPO INDEPENDIENTE · SIN FINES DE LUCRO</text>
+<rect x="62" y="463" width="72" height="4" fill="#c3ad7b"/>
+<rect x="140" y="463" width="26" height="4" fill="#99a47c"/>
+<rect x="172" y="463" width="11" height="4" fill="#3a4333"/>
+
 </svg>

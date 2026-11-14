@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Llaitún 2026 — CIBERLAB · Smart City Edition. 9.ª posición · 5 de noviembre de 2026">
-<rect x="1" y="1" width="1198" height="218" fill="#111511" stroke="#434b3d"/>
-<path d="M1 36V184" stroke="#a8b296" stroke-width="3"/>
-<path d="M42 57L105 34L168 57V119C168 147 135 170 105 187C75 170 42 147 42 119Z" fill="none" stroke="#737b61" stroke-width="2"/>
-<text x="105" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#e4e7d8">9°</text>
-<path d="M204 40V180" stroke="#434b3d"/>
-<text x="242" y="52" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#a8b296">RESULTADO DE COMPETENCIA</text>
-<text x="240" y="101" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#edf0e5">Llaitún 2026</text>
-<text x="242" y="136" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1" fill="#c1c9b3">CIBERLAB · Smart City Edition</text>
-<text x="242" y="180" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#a8b296">9.ª posición · 5 de noviembre de 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title">
+<title id="title">Llaitún 2026 — CIBERLAB · Smart City Edition. 9.ª posición · 5 de noviembre de 2026</title>
+
+<rect x=".5" y=".5" width="1199" height="219" fill="#101410" stroke="#3a4333"/>
+<rect x="1" y="1" width="5" height="218" fill="#c3ad7b"/>
+<path d="M6 1H213V219H6Z" fill="#171d16"/>
+<text x="109" y="47" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.8" fill="#c3ad7b" text-anchor="middle">RESULTADO</text>
+<text x="109" y="136" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" letter-spacing="0" fill="#ecebe1" text-anchor="middle">9.ª</text>
+<text x="109" y="179" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5" fill="#99a47c" text-anchor="middle">POSICIÓN</text>
+<path d="M241 33V188" stroke="#3a4333"/>
+<text x="273" y="47" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#c3ad7b" >RECONOCIMIENTO / 2026</text>
+<text x="270" y="99" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="0" fill="#ecebe1" >Llaitún 2026</text>
+<text x="273" y="138" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" letter-spacing="0" fill="#b6bba7" >CIBERLAB · Smart City Edition</text>
+<text x="273" y="184" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#99a47c" >9.ª posición · 5 de noviembre de 2026</text>
+<path d="M1128 174H1154M1144 164L1154 174L1144 184" fill="none" stroke="#c3ad7b" stroke-width="2"/>
+
 </svg>

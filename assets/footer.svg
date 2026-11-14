@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title">
+<title id="title">NIGHT CREW. Grupo independiente, sin fines de lucro. Disciplina, rigor e integridad.</title>
+
+<rect width="1200" height="92" fill="#101410"/>
+<path d="M0 1H1200" stroke="#3a4333"/>
+<rect x="0" y="1" width="64" height="3" fill="#c3ad7b"/>
+<text x="32" y="42" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" letter-spacing="2" fill="#ecebe1" >NIGHT CREW</text>
+<text x="32" y="68" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" letter-spacing="1" fill="#b6bba7" >GRUPO INDEPENDIENTE · SIN FINES DE LUCRO</text>
+<text x="1168" y="53" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6" fill="#99a47c" text-anchor="end">DISCIPLINA. RIGOR. INTEGRIDAD.</text>
+
+</svg>

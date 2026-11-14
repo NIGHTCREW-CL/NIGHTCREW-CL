@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="40" viewBox="0 0 212 40" role="img" aria-labelledby="title">
+<title id="title">HERRAMIENTAS CTI</title>
+
+<rect x=".5" y=".5" width="211" height="39" fill="#171d16" stroke="#3a4333"/>
+<path d="M1 12V1H12M200 39H211V28" fill="none" stroke="#99a47c"/>
+<text x="106.0" y="25" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#c3ad7b" text-anchor="middle">HERRAMIENTAS CTI</text>
+
+</svg>
