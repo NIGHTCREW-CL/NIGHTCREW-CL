@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="NIGHT CREW — Ciberdefensa. Inteligencia, análisis y preparación. Grupo independiente, sin fines de lucro." />
+<img src="assets/banner.svg" width="100%" alt="NIGHT CREW — Ciberdefensa. Inteligencia, análisis y preparación. Grupo independiente, sin fines de lucro." />
 
 <br />
 
@@ -46,8 +46,8 @@ La documentación técnica se organiza en cuatro áreas. Cada tarjeta da acceso 
   <img src="assets/area-ctf.svg" width="100%" alt="CTF — Capture The Flag. Formación mediante laboratorios y ejercicios técnicos. Abrir repositorio." />
 </a>
 
-<a href="https://github.com/NIGHTCREW-CL/EH">
-  <img src="assets/area-eh.svg" width="100%" alt="EH — Ethical Hacking. Evaluación autorizada, evidencia y divulgación responsable. Abrir repositorio." />
+<a href="https://github.com/NIGHTCREW-CL/ETH">
+  <img src="assets/area-eth.svg" width="100%" alt="ETH — Ethical Hacking. Evaluación autorizada, evidencia y divulgación responsable. Abrir repositorio." />
 </a>
 
 ## Reconocimientos

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title">
-<title id="title">EH — Evaluación autorizada de seguridad. Evidencia y divulgación responsable.</title>
+<title id="title">ETH — Evaluación autorizada de seguridad. Evidencia y divulgación responsable.</title>
 
 <rect x=".5" y=".5" width="1199" height="179" fill="#101410" stroke="#3a4333"/>
 <rect x="1" y="1" width="5" height="178" fill="#99a47c"/>
 <path d="M6 1H205V179H6Z" fill="#171d16"/>
 <text x="32" y="33" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#c3ad7b" >04 / ÁREA DE CONOCIMIENTO</text>
-<text x="28" y="126" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="3" fill="#ecebe1" >EH</text>
+<text x="28" y="126" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="3" fill="#ecebe1" >ETH</text>
 <path d="M230 30V150" stroke="#3a4333"/>
 <text x="260" y="43" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#99a47c" >ETHICAL HACKING</text>
 <text x="258" y="95" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" letter-spacing="0" fill="#ecebe1" >Evaluación autorizada de seguridad</text>
